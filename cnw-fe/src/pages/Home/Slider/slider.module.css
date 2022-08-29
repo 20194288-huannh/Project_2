@@ -1,0 +1,14 @@
+.imgSlider {
+    display: block;
+    position: relative;
+    width: 100%;
+    display: flex;
+}
+
+
+.slide img{
+    width: 100%;
+}
+
+
+
